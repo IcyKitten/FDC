@@ -1,4 +1,4 @@
-FDC
+Fathers Day Card
 ===
 
 My super amazing fathers day card for my dad.
